@@ -64,3 +64,8 @@ body{
 p{
     font-style: italic;
 }
+
+img{
+    height: 42vh;
+    width: auto;
+}
