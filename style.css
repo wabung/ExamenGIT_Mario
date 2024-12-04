@@ -61,3 +61,11 @@ body{
     float: right;
 }
 
+p{
+    font-style: italic;
+}
+
+img{
+    height: 35vh;
+    width: auto;
+}
